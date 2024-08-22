@@ -105,3 +105,7 @@ section>div>p {
   font-size: 1.6rem;
   margin-top: 45px;
 }
+
+.focus-btn {
+  border: 3px solid red;
+}

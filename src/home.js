@@ -1,11 +1,6 @@
-const contentDiv = document.getElementById('content');
-
-const headerOne = document.createElement("h1");
-headerOne.innerText = "Peter's Pizza Palace";
-contentDiv.appendChild(headerOne);
+export { section }
 
 const section = document.createElement('section');
-contentDiv.appendChild(section);
 
 import pizzaMainImg from "./images/pizza-main.jpg";
 const mainImg = document.createElement("img");
