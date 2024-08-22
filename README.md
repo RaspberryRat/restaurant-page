@@ -1,1 +1,1 @@
-# restaurant-page
+Design a restaurant website to practice javascript
