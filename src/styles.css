@@ -72,6 +72,32 @@ h6 {
 
 /* Begin local styles */
 
+header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-top: 30px;
+  background-image: url(./images/pizza-melt.jpg);
+
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 100px;
+  gap: 25px;
+  padding-right: 35px;
+}
+
+nav>button {
+  background-color: rgba(255, 255, 255, 0.6);
+  font-size: 1.5rem;
+  border: 2px solid white;
+
+}
+
 #content {
   padding: 5%;
   display: flex;
